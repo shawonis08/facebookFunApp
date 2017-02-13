@@ -1,0 +1,37 @@
+[
+    {
+        "name": "bndr/imgur-php-wrapper",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/bndr/imgur-php-wrapper.git",
+            "reference": "9cd9ecdd7e6f80492f1c584dfa4402b72368a724"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/bndr/imgur-php-wrapper/zipball/9cd9ecdd7e6f80492f1c584dfa4402b72368a724",
+            "reference": "9cd9ecdd7e6f80492f1c584dfa4402b72368a724",
+            "shasum": ""
+        },
+        "time": "2015-12-31T15:08:21+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "": "classes/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache-2.0"
+        ],
+        "authors": [
+            {
+                "name": "Vadim Kravcenko",
+                "email": "vadim.kravcenko@gmail.com"
+            }
+        ],
+        "description": "Imgur API php client for easy usage"
+    }
+]
